@@ -1,1 +1,7 @@
-1
+# Communicate using MARKDOWN
+
+## Loading new skills...
+
+#### here goes a smaller text
+
+###### and last but not least... smallest text!
